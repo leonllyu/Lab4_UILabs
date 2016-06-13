@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\leonllyu\AndroidStudioProjects\Lab4_UILabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4008f944121c093a0d2110bae7cda5d04c8c195c">
+        <dex dex="C:\Users\leonllyu\AndroidStudioProjects\Lab4_UILabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f27c413e4d90db416f7770121acf5311a105252\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\leonllyu\AndroidStudioProjects\Lab4_UILabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c77415bfd3ce10063dfcc040c78cf279550d255a">
+        <dex dex="C:\Users\leonllyu\AndroidStudioProjects\Lab4_UILabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b2248367f5fdab2f26b0698db2a4e79f7b3c7be7\classes.dex" />
+    </item>
+
+</items>
